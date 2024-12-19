@@ -1,0 +1,10 @@
+database:
+  path: "data.db"
+
+security:
+  note_password: "CHANGE_ME"  # TODO: Securely manage note passwords
+  encryption_key: "CHANGE_ME_SECRET_KEY"
+
+integrations:
+  # Placeholder for future integration keys or URLs
+  # calendar_api: "https://example.com/api/..."
